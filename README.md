@@ -1,4 +1,7 @@
 # ORB-SLAM2
+
+Now you can load 3D model(.obj) via node named MonoAR_OBJ, change the filename in /AR_OBJ/ViewAR.cc (default name arm.obj)
+
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
 
 **13 Jan 2017**: OpenCV 3 and Eigen 3.3 are now supported.

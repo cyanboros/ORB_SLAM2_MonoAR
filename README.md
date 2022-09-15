@@ -2,7 +2,7 @@
 
 Now you can load 3D model(.obj) via node named MonoAR_OBJ, change the filename in /AR_OBJ/ViewAR.cc (default name arm.obj)
 
-[![MonoAR Load 3D Model](https://res.cloudinary.com/marcomontalbano/image/upload/v1663205761/video_to_markdown/images/youtube--TecnPafQqeI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/TecnPafQqeI "MonoAR Load 3D Model")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1663205761/video_to_markdown/images/youtube--TecnPafQqeI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/TecnPafQqeI "")
 
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
 

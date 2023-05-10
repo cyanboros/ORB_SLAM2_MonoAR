@@ -75,6 +75,19 @@ src/AR/ViewerAR.cc
 
 target_link_libraries(MonoAR
 ${LIBS}
+${Pangolin_LIBRARIES}
+)
+
+# Node for monocular camera (Augmented Reality using 3D models)
+rosbuild_add_executable(MonoAR_OBJ
+src/AR_OBJ/ros_mono_ar.cc
+src/AR_OBJ/ViewerAR.h
+src/AR_OBJ/ViewerAR.cc
+)
+
+target_link_libraries(MonoAR_OBJ
+${LIBS}
+${Pangolin_LIBRARIES}
 )
 
 # Node for stereo camera
